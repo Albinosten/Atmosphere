@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Atmosphere</id>
+    <version>1.0.0</version>
+    <authors>Atmosphere</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/albinost/Programming/Atmosphere/bin/Debug/netcoreapp3.1/Atmosphere.runtimeconfig.json" target="lib/netcoreapp3.1/Atmosphere.runtimeconfig.json" />
+    <file src="/Users/albinost/Programming/Atmosphere/bin/Debug/netcoreapp3.1/Atmosphere.dll" target="lib/netcoreapp3.1/Atmosphere.dll" />
+  </files>
+</package>

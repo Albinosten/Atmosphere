@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/albinost/Programming/Atmosphere/ball.png</SourceFile>
+  <SourceTime>2021-10-15T17:21:21.05162+02:00</SourceTime>
+  <DestFile>/Users/albinost/Programming/Atmosphere/ball.xnb</DestFile>
+  <DestTime>2022-09-29T22:22:26.2444677+02:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
